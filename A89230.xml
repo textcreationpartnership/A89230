@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Right Honourable Ed. Lord Montagu, one of the commissioners attending His Majesty. With a perfect narration of all the passages betwixt his majesty and those forces that brought him from Holdenby, being resident now at New-market. Both read in the House of Peeres on the tenth of June. 1647. Die Jovis 10 Junii 1647. Ordered by the Lords assembled in Parliament, that this letter, with the narration be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+            <author>Sandwich, Edward Montagu, Earl of, 1625-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89230</idno>
+            <idno type="STC">Wing M2467A</idno>
+            <idno type="STC">Thomason E392_10</idno>
+            <idno type="STC">ESTC R201563</idno>
+            <idno type="EEBO-CITATION">99862063</idno>
+            <idno type="PROQUEST">99862063</idno>
+            <idno type="VID">160276</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160276)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E392[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Right Honourable Ed. Lord Montagu, one of the commissioners attending His Majesty. With a perfect narration of all the passages betwixt his majesty and those forces that brought him from Holdenby, being resident now at New-market. Both read in the House of Peeres on the tenth of June. 1647. Die Jovis 10 Junii 1647. Ordered by the Lords assembled in Parliament, that this letter, with the narration be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+                  <author>Sandwich, Edward Montagu, Earl of, 1625-1672.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Wright at the Kings Head in the old Bayley.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160276:1" rendition="simple:additions"/>
+            <p>A LETTER From the RIGHT HONOURABLE Ed. Lord Montagu, one of the Commiſſioners attending His MAJESTY.</p>
+            <p>With a perfect Narration of all the paſſages betwixt his MAJESTY and thoſe Forces that brought him from Holdenby, being Reſident now at New-market.</p>
+            <p>Both read in the Houſe of Peeres on the tenth of June. 1647.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <date>Die Jovis 10 Junii 1647.</date>
+                        </opener>
+                        <p>ORdered by the Lords aſſembled in Parliament, That this Letter, with the Narration be forthwith printed and pub<g ref="char:EOLhyphen"/>liſhed.</p>
+                        <closer>
+                           <signed>Joh. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London printed for <hi>John Wright</hi> at the Kings Head in the old Bayley.. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160276:2" rendition="simple:additions"/>
+            <pb facs="tcp:160276:2"/>
+            <head>To the Right Honourable the Earl of Mancheſter, Speaker of the Houſe of Peeres <hi>pro tempore,</hi> theſe.</head>
+            <opener>
+               <salute>My Lord:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">V</seg>Pon Saterday as we were upon the way be<g ref="char:EOLhyphen"/>tweene Huntingdon and Cambridge, in our journey, as we ſuppoſed towards Newmar<g ref="char:EOLhyphen"/>ket, we were met by Colonell <hi>Whaley,</hi> who acquainted us with the firſt Orders he had received from the Generall to attend the King with his Regiment at Holdenby, in the roome of Col. <hi>Graves,</hi> and alſo with ſuch other Orders as he received from his Excellency after it was knowne unto him that his Ma<g ref="char:EOLhyphen"/>jeſty was upon his march towards Newmarket, whereby he was directed at his meeting of the King upon the way, to entreat his Majeſty to take up his Quarters at the next convenient houſe, which he had aſsigned to be at Childerſly, the late dwelling houſe of Sir <hi>Iohn Cates,</hi> wherewith his Majeſty was contented. At the ſame time we alſo received two Letters from the Generall, wherein he acquainted us that the changing of the Guards at Holdenby, and the removall of the King had been without his privity; and that he had ſent Colonell <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with his Regiment to attend his Majeſty backe to Holdenby: But thoſe Orders which Colonell <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> laſt received for waiting upon the King to ſuch conve<g ref="char:EOLhyphen"/>nient Quarters as ſhould be ne<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to the place where he
+<pb n="2" facs="tcp:160276:3"/>met him in the way (were given as it ſeemes after the date of thoſe Letters he directed to us) and upon his knowledge of the Kings being advanced as farre as Hun<g ref="char:EOLhyphen"/>tingdon: Upon Satterday in the after-noone the King came accordingly to this place, and we returned anſwer to his Excellencies two Letters, wherein we acquainted him with our condition, and that we had ſent to the Parliament for directions, which we ſpeedily expected. Upon Satterday late in the night, Sir <hi>Hardres Waller,</hi> and Colonell <hi>L<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t</hi> came unto us from the Generall, and deſired our advice what was fitteſt to be done upon this accident, which had befallen by the diſorder of the Souldiers without his Excellencies knowledge, and with<g ref="char:EOLhyphen"/>all propounded unto us the Kings returne to Holdenby: wherein his Majeſty had declared his utter averſneſſe to Colonell <hi>Whaley,</hi> inſiſting that he would not be poſted from place to place, but ſince they had removed him againſt his will from Holdenby, he would now goe to Newmarket. To this we durſt not, in the condition we were, preſume to give any advice at all before we recei<g ref="char:EOLhyphen"/>ved new directions from you, and that was all the an<g ref="char:EOLhyphen"/>ſwer we returned. Upon Munday the Generall him<g ref="char:EOLhyphen"/>ſelfe, the Lievtenant Generall, and other chiefe Officers of the Army came hither, and were much preſſed by the King, that for his conveniency he might remove to his owne Houſe at Newmarket, profeſsing that he would not returne to Holdenby. Herein though much deſired, we could not take upon us to adviſe, or act any thing conceiving that no new Guards could be but into the capacity of the former, who by Ordinance of Par<g ref="char:EOLhyphen"/>liament were immediatly to receive and obſerve our Orders, and could not be countermanded by any other authority then of both Houſes. His Excellency after much diſcourſe returned back to his Quarters at Cam<g ref="char:EOLhyphen"/>bridge, having promiſed the King that he ſhould have their reſolution before morning, and accordingly Col<g ref="char:EOLhyphen"/>lonell <hi>Whaley</hi> hath now received Orders to attend the King to Newmarket, whether we alſo wait upon him,
+<pb n="3" facs="tcp:160276:3"/>expecting hourely to receive your directions, which are hereby earneſtly intreated, and will be extreamely wel<g ref="char:EOLhyphen"/>come unto</p>
+            <closer>
+               <dateline>
+                  <hi>Childerſly</hi> 
+                  <date>
+                     <hi>the</hi> 8. <hi>of June.</hi> 1647.</date>
+               </dateline>
+               <signed>Your Lordſhips hum<g ref="char:EOLhyphen"/>ble Servant: <hi>Edw. Mountague.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>IN regard I was ſtraightned in time when my laſt Letter was written, I have here incloſed ſent you a perfect relation of what paſſed upon the fourth of this inſtant June, when the King ſpake publiquely with the Souldiers at Holdenby.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="enclosure">
+            <head>The Narration betwixt his Majeſty and Cornet <hi>George Joyce,</hi> &amp;c.</head>
+            <p>THe Party being drawne up in the firſt Court before the Houſe, His Majeſty came downe, and ſtanding upon the top of the ſteps, directed his Speech to Cornet <hi>Joyce,</hi> who repreſenting the Commander of the Party, ſtood before the Horſe at the foot of the Staires.</p>
+            <p>The King ſaid that Cornet <hi>Joyce</hi> having, though at an unſeaſonable houre in the night, acquainted him that he was come to convey his Majeſty to the Army; His Majeſty, according to his promiſe, was there to give his anſwer in preſence of them all: But firſt he de<g ref="char:EOLhyphen"/>ſired to know by whom he was authorized to propound this to His Majeſty. Maſter <hi>Joyce</hi> anſwered that he was ſent by authority from the Army. The King replyed, That he knew no lawfull authority of <hi>England</hi> but his owne, and next under him the Parliment. But with<g ref="char:EOLhyphen"/>all asked, whether he had any authority from Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax,</hi> and whether in writing: It being replyed,
+<pb n="4" facs="tcp:160276:4" rendition="simple:additions"/>That Sir <hi>Thomas Fairfax</hi> was a Member of the Army. The King inſiſted that he was not anſwered; Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax</hi> being their Generall, was not properly a Member, but head of the Army. <hi>Joyce</hi> ſaid, That at leaſt he was included in the Army; and that the Souldi<g ref="char:EOLhyphen"/>ers preſent were his Commiſsion, being a commanded Party out of every Regiment. The King replyed, That they might be good witneſſes; but he had not ſeene ſuch a Commiſsion before: And if they were his Commiſ<g ref="char:EOLhyphen"/>ſion, It was an Authority very well written, all hand<g ref="char:EOLhyphen"/>ſome young men. The King proceeded to ſay, That he came to <hi>H<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nby</hi> not by conſtraint (though not ſo wil<g ref="char:EOLhyphen"/>lingly as he might have done) to the intent he might ſend Meſſages to his two Houſes of Parliament, and receive anſwers from them: That accordingly he had ſent ſeverall Meſſages to them, and thought himſelfe in a ſort obliged to ſtay for their anſwers which were not come; yet if they gave him ſuch reaſons as might convince his judgement he would goe with them: nay, the Commiſsioners ſhould not ſtop him. He deſired therefore to know the reaſons they could give him for this journey. <hi>Joy<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> replyed, That a plot for this fou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e yeares laſt contrived by ſome Members of both Houſes, to overthrow the Lawes of the Kingdome: That a de<g ref="char:EOLhyphen"/>ſigne to convey his Perſon to an Army newly to be rai<g ref="char:EOLhyphen"/>ſed for that purpoſe, were the cauſes of their underta<g ref="char:EOLhyphen"/>king this imployment, and hoped would prevaile with his Majeſty to go willingly with them, thereby to de<g ref="char:EOLhyphen"/>feat the purpoſes of thoſe that would otherwiſe by the countenance of his Perſon, perturbe the peace of the Kingdome: And that his being with the Army was the readieſt expedient he could thinke upon to procure him a ſpeedy and ſati<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctory Anſwer to his former Meſſages. The King returned that he knew no fillable of any ſuch deſigne or intended Army: And that to ſeeke an Anſwer with ſo many gallant men at his back, w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re to e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tort it which were very unhandſome &amp; be<g ref="char:EOLhyphen"/>ſides that, their propoſall looked like an <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppoſition to
+<pb n="5" facs="tcp:160276:4"/>the Parliament, which he deſired not, or would ever infringe their juſt Priviledges of the Lawes of the Land: That theſe Re<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſons induced him not to go willingly; and therefore deſired to know what they intended, it he would not go with them. It was anſwered, That they hoped his Majeſty would not put them to uſe thoſe meanes which otherwiſe they ſhould be neceſsitated to, if he refuſed. For the Commiſsioners, or any elſe that refuſed, they knew well what courſe to take with them. The King proteſted; That unleſſe they gave him ſatiſ<g ref="char:EOLhyphen"/>faction to the reaſonable and juſt demands he ſhould make, he would not go with them, unleſſe they carried him by abſolute force; and he thought they would well thinke upon it before they would lay violent hands up<g ref="char:EOLhyphen"/>on their King: That the Commiſsioners had never put any conſtraint upon him; they were more civill. Then he propounded, that he might be uſed with honour and reſpect; That they would not force him in any thing contrary to his conſcience, or his Honour; though he hoped he had long ago ſo fixed his reſolutions, that no force could cauſe him to do a baſe thing: Though they were Maſters of his body, yet his minde was above their reach. But to thoſe Propofitions they conſented with a generall Acclamation; Maſter <hi>Joyce</hi> adding, That their Principles were not to force any mans conſcience, much leſſe the King. Then His Majeſty deſired that thoſe which attended him, and ſome other of his ſervants, againſt whom they had no juſt Exceptions, might be permitted to wait upon him. This being agreed, the King asked whether they would have him go: <hi>Oxford</hi> was firſt nomi<g ref="char:EOLhyphen"/>nated, then <hi>Cambridge:</hi> The King named <hi>Newmarket,</hi> which accepted, he deſired care might be taken to carry his ſtuffe, wherein Maſter <hi>Joyce</hi> ſaid ſomething was done already.</p>
+            <p>The other expreſsions of their reſpect to the King, of the Armies deſire to ſee him with them, and of their fidelity towards him, were intermixed in the diſcourſe, together with complaints of the proceeding of the Par<g ref="char:EOLhyphen"/>liament
+<pb n="6" facs="tcp:160276:5"/>towards them; which the King ſaid, He would not ad udge, unleſſe he heard both ſides.</p>
+            <p>The King having ended, at the deſire of the Commiſ<g ref="char:EOLhyphen"/>ſioners, he gave them leave to ſpeak to the Troops; who having repeated the ſumme of their Inſtructions from both Houſes, whereby they were appointed to attend his Ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſty at <hi>Holdenby</hi> till further Orders; did pub<g ref="char:EOLhyphen"/>likely proteſt againſt his removall, and againſt this act of the Souldiers, as unlawfull in it ſelfe, and dangerous to them; requiriug ſo many of them as would ſtand by the Commiſsioners in oppoſition thereof, to declare themſelves accordingly. But it being with a generall voyce anſwered, That not a man of them would do ſo. The Commiſsioners added, That as honeſt men they theld themſelves obliged to diſcharge the truſt repoſed in them, to the utmoſt of their power: And agreeable thereunto, if they had force for the Service, they would withſtand them to the loſſe of their lives. But ſince they were not in a capacity at preſent, they muſt acquieſſe.</p>
+            <p>As the King turned back to go into the Houſe Major <hi>Tomlins</hi> declared to his Majeſty, in the preſence of the Commiſsioners, That according to the Orders they gave him, he had indeavoured what he could to induce the Troops aſsigned for the ordinary Guards, which he commanded in the abſence of Colonell <hi>Greaves,</hi> to dr w up and make reſiſtance, but without effect, they all refuſing to obey him therein.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
